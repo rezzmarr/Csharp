@@ -16,3 +16,7 @@ FizzWizz
 14
 FizzBuzz
 ...
+
+
+
+largestword uses regex to split sentences and return the largest length word. Or the first instance is multiple words of same length.
